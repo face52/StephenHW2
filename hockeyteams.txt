@@ -2,8 +2,12 @@ List of Hockey Teams
 
 1. Hartford Whalers
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 2. Boston College -- Added by Maziar
 =======
 2. Boston Bruins --add by Kaile Liang
 >>>>>>> a73649ecce257efdf0db5788a6757d047d967e17
+=======
+2. New Jersey Devils -- By ViDi
+>>>>>>> 899245a7bf8afb1bb6522bf1ef880218571f97a8
